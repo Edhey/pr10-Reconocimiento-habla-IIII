@@ -10,6 +10,7 @@ In this exercise you will learn how to use the Whisper ASR (Automatic Speech Rec
 ## Objectives
 
 1. *Generar una apk con el proyecto de whisper.tiny para Unity*
+
 For this objective, I have imported the whisper.tiny project from `https://github.com/Macoron/whisper.unity.git` into Unity and using the Sample Scene "2 - Microphone" as a base, I modified the script `MicrophoneDemo.cs` to add a check method that changes the color of a cube to red when the transcribed text contains the word "red". After implementing this functionality, I have generated an APK file that can be installed on Android devices.
 
 ```csharp
