@@ -119,6 +119,7 @@ This way, we can easily expand the functionality by adding more commands to the 
 [MicrophoneCube.cs](MicrophoneCube.cs)
 
 <video src="Resources/whisper_cube_red_detection.mp4" controls title="Whisper Cube Red Detection"></video>
+https://github.com/user-attachments/assets/2bc850de-ed31-4f1a-9b37-e486327db634
 
 2. *En la escena que con guerreros y escudos crea una mecánica que al seleccionar un guerrero le des al menos dos instrucciones por voz diferentes y las ejecute. La grabación se activará al pulsar una tecla.*
 
@@ -146,3 +147,4 @@ In the Unity Project, I have created the necessary ScriptableObjects for the com
 I also have to add a Plane to the scene and a box collider and a rigidbody to the warrior prefab to make the jump command work properly.
 
 <video src="Resources/microphone_with_commands_execution.mp4" controls title="Microphone With Commands Execution"></video>
+https://github.com/user-attachments/assets/0d621227-f694-437f-8c91-80f0040701ab
